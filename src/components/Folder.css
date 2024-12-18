@@ -1,0 +1,24 @@
+.folder-name-tab {
+  padding: 3px;
+  border-bottom: 1px solid #e5e5e5;
+  margin: 1px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  align-items: center;
+
+  button {
+    font-size: 11px;
+  }
+}
+
+.file-name-tab {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 3px;
+  margin: 1px;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
